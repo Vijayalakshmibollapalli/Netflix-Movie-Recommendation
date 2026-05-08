@@ -1,4 +1,4 @@
-# 🎬 Netflix Movies & Web Series Recommendation System
+# 🎬 Netflix Movies Recommendation System
 
 A Machine Learning-based Recommendation System that suggests similar movies and web series using Content-Based Filtering and Cosine Similarity.
 
